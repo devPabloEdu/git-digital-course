@@ -8,3 +8,4 @@
 
 * comando git pushh
 * comand git pull
+* command git fetch
