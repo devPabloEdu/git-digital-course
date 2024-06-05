@@ -6,4 +6,4 @@
 
 ## salvando alterações no git mais uma vez
 
-* comando git push
+* comando git pushh
