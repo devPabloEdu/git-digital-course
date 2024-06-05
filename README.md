@@ -7,3 +7,4 @@
 ## salvando alterações no git mais uma vez
 
 * comando git pushh
+* comand git pull
